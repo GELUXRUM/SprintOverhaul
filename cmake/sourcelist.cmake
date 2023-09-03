@@ -1,0 +1,13 @@
+set(SOURCES
+	include/Common.h
+	include/ConfigParser.h
+	include/Manager.h
+	include/RNJesus.h
+	include/SimpleIni.h
+	src/main.cpp
+	src/PCH.h
+	src/Hooks.cpp
+	src/Hooks.h
+	src/Manager.cpp
+	src/RNJesus.cpp
+)
